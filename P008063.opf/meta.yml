@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W20194
   title: ཕྱེ་མ་ལེབ་དཀར་པོ།
-  volume: ''
+  volume:
+    ae9f8b8224c3440e9691aa87187b3c59:
+      image_group_id: I1KG23334
+      title: Volume 1 of phye ma leb dkar po/
+      volume_number: 1
+      total_pages: 134
   author: ''
+ebook_metadata:
+  title: ཕྱེ་མ་ལེབ་དཀར་པོ།
+  author: ''
+  sku: P008063
+  cover: cover.jpg
+  layers:
+  - pagination
