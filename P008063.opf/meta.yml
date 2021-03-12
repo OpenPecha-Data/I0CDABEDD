@@ -5,11 +5,12 @@ source_metadata:
   title: ཕྱེ་མ་ལེབ་དཀར་པོ།
   author: ''
   volumes:
-    70eea3a168954b618022e6bf5ca7002a:
+    ae9f8b8224c3440e9691aa87187b3c59:
       image_group_id: I1KG23334
-      title: ''
+      title: Volume 1 of phye ma leb dkar po/
       volume_number: 1
       total_pages: 134
+      base_file: v001.txt
 ebook_metadata:
   title: ཕྱེ་མ་ལེབ་དཀར་པོ།
   author: ''
